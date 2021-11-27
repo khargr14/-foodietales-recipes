@@ -1,0 +1,19 @@
+{
+  "name": "foodietales-recipes",
+  "version": "1.0.0",
+  "description": "Recipe app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khargr14/-foodietales-recipes.git"
+  },
+  "author": "Keesha Hargrove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khargr14/-foodietales-recipes/issues"
+  },
+  "homepage": "https://github.com/khargr14/-foodietales-recipes#readme"
+}
