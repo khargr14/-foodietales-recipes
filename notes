@@ -2,3 +2,4 @@
     remove the "main" so the index.html would work.
 
 Have to understand more on parcel ??
+"sass": "^1.26.10"
