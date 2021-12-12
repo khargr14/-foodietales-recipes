@@ -473,11 +473,13 @@ const timeout = function(s) {
 ///////////////////////////////////////
 const renderSpinner = function(parentEl) {
     const markup = `\n  <div class="spinner">\n   <svg>\n    <use href='${_iconsSvgDefault.default}#icon-loader"></use>\n    </svg>\n  </div>\n`;
+    parentEl.innerHTML = '';
     parentEl.insertAdjacentHTML('afterbegin', markup);
 };
 const showRecipe = async function() {
     try {
         // 1.  load recipe
+        renderSpinner(recipeContainer);
         const res = await fetch('https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886');
         const data = await res.json();
         if (!res.ok) throw new Error(`${data.message} (${res.status})`);

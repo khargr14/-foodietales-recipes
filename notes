@@ -3,3 +3,6 @@
 
 Have to understand more on parcel ??
 "sass": "^1.26.10"
+
+
+ "parcel-transformer-foo": "Url:./parcel-transformer-foo"
