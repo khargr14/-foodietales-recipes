@@ -20,7 +20,7 @@
     "@parcel/transformer-image": "^2.0.0-rc.0",
     "@parcel/transformer-sass": "^2.0.0-rc.0",
     "parcel": "^2.0.0-rc.0",
-    "parcel-transformer-foo": "link:./parcel-transformer-foo"
+    "parcel-transformer-foo": "Url:./parcel-transformer-foo"
   },
   "dependencies": {
     "sass": "^1.43.5"
