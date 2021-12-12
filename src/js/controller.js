@@ -1,4 +1,6 @@
 import icons from 'url:../img/icons.svg';
+import 'regenerator/runtime';
+
 console.log(icons)
 // import icons from '../img/icons.svg';
 // console.log(icons)
