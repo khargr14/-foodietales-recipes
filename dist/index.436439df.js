@@ -481,6 +481,7 @@ const showRecipe = async function() {
     try {
         const id = window.location.hash.slice(1);
         console.log(id);
+        if (!id) return;
         // 1.  load recipe
         renderSpinner(recipeContainer);
         const res = await fetch`https://forkify-api.herokuapp.com/api/v2/recipes/${id}`;
