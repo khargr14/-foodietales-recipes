@@ -1,3 +1,5 @@
+import * as model from './model.js';
+
 import icons from 'url:../img/icons.svg';
 import 'regenerator-runtime';
 
@@ -43,7 +45,7 @@ const showRecipe = async function () {
     // 1.  load recipe
     renderSpinner(recipeContainer);
 
-    
+    model.loadRecipe(id);
 
       // 2. Rendering recipe
       const markup =`
