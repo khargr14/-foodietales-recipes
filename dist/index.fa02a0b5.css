@@ -198,7 +198,7 @@ body {
 .spinner svg {
   height: 6rem;
   width: 6rem;
-  fill: #bb1c1c;
+  fill: #fa4141;
   animation: rotate 2s infinite linear;
 }
 

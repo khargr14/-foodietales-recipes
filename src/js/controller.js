@@ -1,5 +1,5 @@
 import icons from 'url:../img/icons.svg';
-import 'regenerator/runtime';
+import 'regenerator-runtime';
 
 console.log(icons)
 // import icons from '../img/icons.svg';
@@ -152,4 +152,6 @@ const showRecipe = async function () {
     alert(err);
   }
 };
-showRecipe();
+
+
+window.addEventListener('hashchange', showRecipe)
