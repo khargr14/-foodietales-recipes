@@ -456,6 +456,7 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"jKMjS":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+var _modelJs = require("./model.js");
 var _iconsSvg = require("url:../img/icons.svg");
 var _iconsSvgDefault = parcelHelpers.interopDefault(_iconsSvg);
 var _regeneratorRuntime = require("regenerator-runtime");
@@ -484,21 +485,7 @@ const showRecipe = async function() {
         if (!id) return;
         // 1.  load recipe
         renderSpinner(recipeContainer);
-        const res = await fetch`https://forkify-api.herokuapp.com/api/v2/recipes/${id}`;
-        const data = await res.json();
-        if (!res.ok) throw new Error(`${data.message} (${res.status})`);
-        let { recipe  } = data.data;
-        recipe = {
-            id: recipe.id,
-            title: recipe.title,
-            publisher: recipe.publisher,
-            sourceUrl: recipe.source_url,
-            image: recipe.image_url,
-            servings: recipe.servings,
-            cookingTime: recipe.cooking_time,
-            ingredients: recipe.ingredients
-        };
-        console.log(recipe);
+        _modelJs.loadRecipe(id);
         // 2. Rendering recipe
         const markup = `\n      <figure class="recipe__fig">\n        <img src="${recipe.image}" alt="${recipe.title}" class="recipe__img" />\n        <h1 class="recipe__title">\n          <span>${recipe.title}</span>\n        </h1>\n      </figure>\n      <div class="recipe__details">\n        <div class="recipe__info">\n          <svg class="recipe__info-icon">\n          <use href="${_iconsSvgDefault.default}#icon-clock"></use>\n          </svg>\n          <span class="recipe__info-data recipe__info-data--minutes">${recipe.cookingTime}</span>\n          <span class="recipe__info-text">minutes</span>\n        </div>\n        <div class="recipe__info">\n          <svg class="recipe__info-icon">\n          <use href="${_iconsSvgDefault.default}#icon-users"></use>\n          </svg>\n          <span class="recipe__info-data recipe__info-data--people">${recipe.servings}</span>\n          <span class="recipe__info-text">servings</span>\n          <div class="recipe__info-buttons">\n            <button class="btn--tiny btn--increase-servings">\n              <svg>\n              <use href="${_iconsSvgDefault.default}#icon-minus-circle"></use>\n              </svg>\n            </button>\n            <button class="btn--tiny btn--increase-servings">\n              <svg>\n              <use href="${_iconsSvgDefault.default}#icon-plus-circle"></use>\n              </svg>\n            </button>\n          </div>\n        </div>\n        <div class="recipe__user-generated">\n          <svg>\n          <use href="${_iconsSvgDefault.default}#icon-user"></use>\n          </svg>\n        </div>\n        <button class="btn--round">\n          <svg class="">\n          <use href="${_iconsSvgDefault.default}#icon-bookmark-fill"></use>\n          </svg>\n        </button>\n      </div>\n      <div class="recipe__ingredients">\n        <h2 class="heading--2">Recipe ingredients</h2>\n        <ul class="recipe__ingredient-list">\n         \n        ${recipe.ingredients.map((ing)=>{
             return `\n             <li class="recipe__ingredient">\n             <svg class="recipe__icon">\n            <use href="${_iconsSvgDefault.default}#icon-check"></use>\n           </svg>\n           <div class="recipe__quantity">${ing.quantity}</div>\n           <div class="recipe__description">\n             <span class="recipe__unit">${ing.unit}</span>\n            ${ing.description}\n           </div>\n         </li>\n            `;
@@ -516,7 +503,7 @@ const showRecipe = async function() {
 ); // window.addEventListener('hashchange', showRecipe)
  // window.addEventListener('load', showRecipe)
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"JacNc","url:../img/icons.svg":"iwCpK","regenerator-runtime":"cH8Iq"}],"JacNc":[function(require,module,exports) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"JacNc","url:../img/icons.svg":"iwCpK","regenerator-runtime":"cH8Iq","./model.js":"6Yfb5"}],"JacNc":[function(require,module,exports) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -1166,6 +1153,40 @@ try {
     else Function("r", "regeneratorRuntime = r")(runtime);
 }
 
-},{}]},["drOo7","jKMjS"], "jKMjS", "parcelRequire252f")
+},{}],"6Yfb5":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "state", ()=>state
+);
+parcelHelpers.export(exports, "loadRecipe", ()=>loadRecipe
+);
+var _regeneratorRuntime = require("regenerator-runtime");
+const state = {
+    recipe: {
+    }
+};
+const loadRecipe = async function(id) {
+    try {
+        const res = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/${id}`);
+        const data = await res.json();
+        if (!res.ok) throw new Error(`${data.message} (${res.status})`);
+        const { recipe  } = data.data;
+        state.recipe = {
+            id: recipe.id,
+            title: recipe.title,
+            publisher: recipe.publisher,
+            sourceUrl: recipe.source_url,
+            image: recipe.image_url,
+            servings: recipe.servings,
+            cookingTime: recipe.cooking_time,
+            ingredients: recipe.ingredients
+        };
+        console.log(state.recipe);
+    } catch (err) {
+        alert(err);
+    }
+};
+
+},{"regenerator-runtime":"cH8Iq","@parcel/transformer-js/src/esmodule-helpers.js":"JacNc"}]},["drOo7","jKMjS"], "jKMjS", "parcelRequire252f")
 
 //# sourceMappingURL=index.436439df.js.map
