@@ -47,8 +47,8 @@ const showRecipe = async function () {
     // 1.  load recipe
     renderSpinner(recipeContainer);
 
-    model.loadRecipe(id);
-    const {recipe} = model.state;
+   await model.loadRecipe(id);
+  
 
       // 2. Rendering recipe
     recipeView.render(model.state.recipe);
