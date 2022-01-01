@@ -1,14 +1,15 @@
-16935
+16947
 61/mnt/c/Users/kay_h/foodietales-recipes/src/sass/_preview.scss1638047015225005500 0
 60/mnt/c/Users/kay_h/foodietales-recipes/src/sass/_header.scss1638047015211328500 0
 58/mnt/c/Users/kay_h/foodietales-recipes/src/sass/_base.scss1638054230778849300 0
-65/mnt/c/Users/kay_h/foodietales-recipes/src/js/views/recipeView.js1640481028304959700 0
-51/mnt/c/Users/kay_h/foodietales-recipes/src/js/views1639796009213230600 1
-59/mnt/c/Users/kay_h/foodietales-recipes/src/js/controller.js1640480576938507700 0
+65/mnt/c/Users/kay_h/foodietales-recipes/src/js/views/recipeView.js1640482517840337900 0
+51/mnt/c/Users/kay_h/foodietales-recipes/src/js/views1641076338724989500 1
+56/mnt/c/Users/kay_h/foodietales-recipes/src/js/helpers.js1641077793007626000 0
+59/mnt/c/Users/kay_h/foodietales-recipes/src/js/controller.js1641077793007626000 0
 56/mnt/c/Users/kay_h/foodietales-recipes/src/img/icons.svg1638046988242577500 0
 56/mnt/c/Users/kay_h/foodietales-recipes/src/img/good..png1638047542618669500 0
 46/mnt/c/Users/kay_h/foodietales-recipes/src/img1638051506930361900 1
-56/mnt/c/Users/kay_h/foodietales-recipes/package-lock.json1639275321186790200 0
+56/mnt/c/Users/kay_h/foodietales-recipes/package-lock.json1640481457594295800 0
 66/mnt/c/Users/kay_h/foodietales-recipes/node_modules/yaml/types.mjs1638049029055366000 0
 67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/yaml/types.d.ts1638049029332889200 0
 75/mnt/c/Users/kay_h/foodietales-recipes/node_modules/yaml/types/timestamp.js1638049028859804900 0
@@ -840,7 +841,6 @@
 90/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sharp/src/libvips/cplusplus/VError.cpp1638051028408643900 0
 95/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sharp/src/libvips/cplusplus/VConnection.cpp1638051028407642100 0
 69/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sharp/src/libvips1638051028406643300 1
-71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sharp/src/common.cc1638051028368640800 0
 67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sharp/README.md1638051028440643600 0
 71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/terser/CHANGELOG.md1638049029673991200 0
 70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sharp/package.json1638051028440643600 0
@@ -3768,7 +3768,6 @@
 105/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/EventModifierInit.js1638049029727990500 0
 108/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/EventListenerOptions.js1638049029723989900 0
 97/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/EventInit.js1638049029705992100 0
-93/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/Event.js1638049029698992500 0
 109/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/ElementCSSInlineStyle.js1638049029685992300 0
 110/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/ElementCreationOptions.js1638049029679992700 0
 110/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/ElementContentEditable.js1638049029675992400 0
@@ -4035,6 +4034,20 @@
 106/mnt/c/Users/kay_h/foodietales-recipes/node_modules/simple-swizzle/node_modules/is-arrayish/yarn-error.log1638051028289121900 0
 66/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-interactive1638049026515522600 1
 69/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html/readme.md1638049026425489300 0
+72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html/package.json1638049026207907000 0
+67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html/license1638049026366976300 0
+68/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html/index.js1638049026286423900 0
+63/mnt/c/Users/kay_h/foodietales-recipes/node_modules/url/test.js1638049026557552800 0
+59/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html1638049026366976300 1
+86/mnt/c/Users/kay_h/foodietales-recipes/node_modules/string.prototype.trimend/.eslintrc1638049026027873400 0
+69/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob/README.md1638049026268424200 0
+81/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sshpk/lib/formats/x509-pem.js1638049028380366100 0
+78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/lodash/fp/sortedIndexOf.js1638049031566534600 0
+72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob/package.json1638049026090391200 0
+67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob/LICENSE1638049025868836100 0
+68/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob/index.js1638049025980873500 0
+105/mnt/c/Users/kay_h/foodietales-recipes/node_modules/postcss-modules-scope/node_modules/color-name/test.js1638049026335939100 0
+90/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-generator-function/test/uglified.js1638049026639582900 0
 88/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/features/typed-array/find.js1638049031511018800 0
 91/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/modules/es.date.to-primitive.js1638049030478773800 0
 67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/symbol-tree/lib1638049026575554900 1
@@ -5462,7 +5475,6 @@
 95/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/features/html5semantic.js1638049030548814600 0
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/node-abi/CODE_OF_CONDUCT.md1638051028348641000 0
 74/mnt/c/Users/kay_h/foodietales-recipes/node_modules/commander/package.json1638049028164646100 0
-67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html/license1638049026366976300 0
 82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/type-fest/ts41/snake-case.d.ts1638049028248163100 0
 72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/lodash/_getNative.js1638049029880544300 0
 89/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/features/history.js1638049030538815700 0
@@ -5782,7 +5794,6 @@
 81/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/browsers.js1638049029456927000 0
 71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/des.js/package.json1638049027418822600 0
 69/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data1638049030367255000 1
-82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2020/IsCallable.js1638049030519815600 0
 67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/node-forge/dist1638049029705992100 1
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2020/Number/subtract.js1638049031521019500 0
 64/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite1638049031600559900 1
@@ -5935,6 +5946,8 @@
 118/mnt/c/Users/kay_h/foodietales-recipes/node_modules/browserify-sign/node_modules/readable-stream/lib/_stream_duplex.js1638049026088391500 0
 92/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/watcher/src/windows/win_utils.hh1638049028824770100 0
 127/mnt/c/Users/kay_h/foodietales-recipes/node_modules/browserify-sign/node_modules/readable-stream/lib/internal/streams/stream.js1638049028056581000 0
+82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2020/IsCallable.js1638049030519815600 0
+71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/tests.js1640481313484595800 0
 69/mnt/c/Users/kay_h/foodietales-recipes/node_modules/pn/test/custom.js1638049028295688400 0
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/assign-symbols/package.json1638049025822835200 0
 129/mnt/c/Users/kay_h/foodietales-recipes/node_modules/browserify-sign/node_modules/readable-stream/lib/internal/streams/pipeline.js1638049027837460000 0
@@ -6451,8 +6464,6 @@
 96/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/transformer-postcss/lib/constants.js1638049027899458300 0
 75/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/stable/weak-map1638049031831633700 1
 73/mnt/c/Users/kay_h/foodietales-recipes/node_modules/array-union/readme.md1638049026248423700 0
-78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/tough-cookie/lib/cookie.js1638049026485523600 0
-83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/regions/RO.js1638049031354455700 0
 76/mnt/c/Users/kay_h/foodietales-recipes/node_modules/array-union/package.json1638049025850833400 0
 82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2018/DaysInYear.js1638049029981582200 0
 127/mnt/c/Users/kay_h/foodietales-recipes/node_modules/hash-base/node_modules/readable-stream/lib/internal/streams/from-browser.js1638049027712911100 0
@@ -7182,7 +7193,7 @@
 78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-data-descriptor/LICENSE1638049026018873800 0
 76/mnt/c/Users/kay_h/foodietales-recipes/node_modules/source-map/lib/base64.js1638049028392733000 0
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/config-default/index.json1638049029421889100 0
-62/mnt/c/Users/kay_h/foodietales-recipes/dist/icons.1ea35d5c.svg1640480899256223800 0
+62/mnt/c/Users/kay_h/foodietales-recipes/dist/icons.1ea35d5c.svg1641077808521856100 0
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/regions/alt-eu.js1638049028149125700 0
 122/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/package.json1638049030526813700 0
 77/mnt/c/Users/kay_h/foodietales-recipes/node_modules/domexception/package.json1638049025837833500 0
@@ -7256,6 +7267,7 @@
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/babylon-walk/lib/types.js1638049028114127100 0
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/cssstyle/lib/properties/clear.js1638049028370733100 0
 77/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/transformer-image1638051028881744600 1
+71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/index.js1640481313479598800 0
 113/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@babel/helper-member-expression-to-functions/lib/index.js.map1638049027288269200 0
 55/mnt/c/Users/kay_h/foodietales-recipes/node_modules/ejs1638049026736135000 1
 83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/regions/MQ.js1638049030869330600 0
@@ -8464,7 +8476,7 @@
 106/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2016/ValidateAndApplyPropertyDescriptor.js1638049031791108300 0
 65/mnt/c/Users/kay_h/foodietales-recipes/node_modules/urix/index.js1638049026004873900 0
 81/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@iarna/toml/lib/format-num.js1638049027205753300 0
-65/mnt/c/Users/kay_h/foodietales-recipes/dist/index.436439df.js.map1640481037532577600 0
+65/mnt/c/Users/kay_h/foodietales-recipes/dist/index.436439df.js.map1641077811985874300 0
 96/mnt/c/Users/kay_h/foodietales-recipes/node_modules/extglob/node_modules/extend-shallow/index.js1638049026126907000 0
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/diffie-hellman/package.json1638049025861833400 0
 102/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@swc/helpers/lib/_iterable_to_array_limit_loose.js1638049028478253300 0
@@ -8634,7 +8646,7 @@
 114/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/node-resolver-core/node_modules/is-extendable/index.js1638049026196907500 0
 88/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/stable/array/reduce-right.js1638049032056539700 0
 88/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/features/object/is-frozen.js1638049031854152600 0
-54/mnt/c/Users/kay_h/foodietales-recipes/dist/index.html1640480899312218900 0
+54/mnt/c/Users/kay_h/foodietales-recipes/dist/index.html1641077811976873700 0
 76/mnt/c/Users/kay_h/foodietales-recipes/node_modules/pako/lib/zlib/zstream.js1638049028937327600 0
 75/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/es/array-buffer1638049032106538900 1
 105/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@babel/helper-validator-option/lib/find-suggestion.js1638049027264270200 0
@@ -8925,7 +8937,7 @@
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/packager-js/LICENSE1638049028176646900 0
 99/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@babel/core/node_modules/json5/lib/unicode.d.ts1638049028133126300 0
 82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es6-object-assign/package.json1638049026544552600 0
-61/mnt/c/Users/kay_h/foodietales-recipes/dist/index.436439df.js1640481037523566300 0
+61/mnt/c/Users/kay_h/foodietales-recipes/dist/index.436439df.js1641077811977874300 0
 89/mnt/c/Users/kay_h/foodietales-recipes/node_modules/posthtml/node_modules/htmlparser2/lib1638049028200647500 1
 70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/utils/test1638049029765509200 1
 83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2020/ArrayCreate.js1638049029030364900 0
@@ -9042,7 +9054,7 @@
 93/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/stable/string/virtual/trim-end.js1638049032215020400 0
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/highlight.js/scss/railscasts.scss1638049030651856500 0
 68/mnt/c/Users/kay_h/foodietales-recipes/node_modules/json-schema/test1638049028275162500 1
-66/mnt/c/Users/kay_h/foodietales-recipes/dist/index.fa02a0b5.css.map1640480899322217200 0
+66/mnt/c/Users/kay_h/foodietales-recipes/dist/index.fa02a0b5.css.map1641077811980873900 0
 77/mnt/c/Users/kay_h/foodietales-recipes/node_modules/har-schema/lib/query.json1638049027459826600 0
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/svgo/plugins/removeXMLNS.js1638049029473927800 0
 88/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/babylon-walk/lib/traverse.js1638049027863457600 0
@@ -9160,8 +9172,6 @@
 75/mnt/c/Users/kay_h/foodietales-recipes/node_modules/stylehacks/CHANGELOG.md1638049028045580700 0
 70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/bn.js/CHANGELOG.md1638049026590067300 0
 90/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/modules/esnext.map.map-keys.js1638049031245895300 0
-63/mnt/c/Users/kay_h/foodietales-recipes/node_modules/url/test.js1638049026557552800 0
-59/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html1638049026366976300 1
 94/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@babel/helper-hoist-variables/lib/index.js1638049027518872700 0
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/features/woff2.js1638049031567534500 0
 103/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@babel/helper-module-transforms/lib/rewrite-this.js1638049027715910700 0
@@ -9214,7 +9224,7 @@
 96/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/features/feature-policy.js1638049030364254200 0
 96/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@swc/helpers/lib/_class_private_field_get.js1638049028087095700 0
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/watcher/prebuilds/win32-x641638049029548845700 1
-64/mnt/c/Users/kay_h/foodietales-recipes/dist/favicon.62381efe.png1640480899086224000 0
+64/mnt/c/Users/kay_h/foodietales-recipes/dist/favicon.62381efe.png1641077808518856300 0
 115/mnt/c/Users/kay_h/foodietales-recipes/node_modules/css-modules-loader-core/node_modules/postcss/lib/stringifier.js1638049028753773700 0
 82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/domutils/lib/manipulation.d.ts1638049028045580700 0
 100/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/babel-ast-utils/test/fixtures/control.js1638049027825460800 0
@@ -9343,7 +9353,7 @@
 65/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/51638049031803633400 1
 77/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/es/regexp/test.js1638049032178023500 0
 108/mnt/c/Users/kay_h/foodietales-recipes/node_modules/uncss/node_modules/source-map/dist/source-map.min.js.map1638049028855770900 0
-43/mnt/c/Users/kay_h/foodietales-recipes/dist1640481037535612100 1
+43/mnt/c/Users/kay_h/foodietales-recipes/dist1641077811986873600 1
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/events/src/index.js1638049029447888100 0
 69/mnt/c/Users/kay_h/foodietales-recipes/node_modules/component-emitter1638049026118907300 1
 76/mnt/c/Users/kay_h/foodietales-recipes/node_modules/json-stringify-safe/test1638049026573552800 1
@@ -9818,6 +9828,7 @@
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/packager-js/package.json1638049028885804400 0
 80/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/cache/src/FSCache.js1638049027849461200 0
 86/mnt/c/Users/kay_h/foodietales-recipes/node_modules/css-tree/lib/syntax/atrule/page.js1638049029804024100 0
+55/mnt/c/Users/kay_h/foodietales-recipes/src/js/config.js1641076688763504600 0
 83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/babel-ast-utils/LICENSE1638049027300271100 0
 83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fast-glob/out/utils/stream.d.ts1638049028858808400 0
 94/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/markdown-ansi/src/markdown-ansi.js1638049027583385900 0
@@ -10290,7 +10301,7 @@
 109/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@babel/helper-member-expression-to-functions/package.json1638049027354782200 0
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2020/Number/divide.js1638049030048110700 0
 81/mnt/c/Users/kay_h/foodietales-recipes/node_modules/asn1.js/lib/asn1/base/node.js1638049027600386700 0
-45/mnt/c/Users/kay_h/foodietales-recipes/src/js1639795987733408600 1
+45/mnt/c/Users/kay_h/foodietales-recipes/src/js1641076338724989500 1
 98/mnt/c/Users/kay_h/foodietales-recipes/node_modules/abortcontroller-polyfill/src/abortableFetch.js1638049027447822300 0
 103/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@babel/helper-optimise-call-expression/lib/index.js1638049027519868900 0
 96/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/features/string/virtual/pad-start.js1638049032032151500 0
@@ -11639,7 +11650,7 @@
 61/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsesc/man1638049026598584700 1
 86/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@swc/helpers/src/_object_spread.js1638049029611990900 0
 98/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/ShadowRoot.js1638049030392253700 0
-61/mnt/c/Users/kay_h/foodietales-recipes/dist/logo.739a33b1.png1640480899199218800 0
+61/mnt/c/Users/kay_h/foodietales-recipes/dist/logo.739a33b1.png1641077808521856100 0
 66/mnt/c/Users/kay_h/foodietales-recipes/node_modules/color/index.js1638051028361643900 0
 94/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@swc/helpers/src/_sliced_to_array_loose.js1638049029632990100 0
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/features/instance/fill.js1638049031447502100 0
@@ -11672,7 +11683,7 @@
 105/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/features/comparedocumentposition.js1638049029630991100 0
 82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/highlight.js/styles/srcery.css1638049029383891400 0
 86/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/packager-js/lib/helpers.js1638049028395745200 0
-62/mnt/c/Users/kay_h/foodietales-recipes/dist/icons.c097e590.svg1640480899202220000 0
+62/mnt/c/Users/kay_h/foodietales-recipes/dist/icons.c097e590.svg1641077808521856100 0
 80/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@types/node/fs/promises.d.ts1638049028799771400 0
 60/mnt/c/Users/kay_h/foodietales-recipes/node_modules/has-ansi1638049026000873700 1
 77/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-to-primitive/es2015.js1638049026131907600 0
@@ -11862,6 +11873,8 @@
 96/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/internals/correct-is-regexp-logic.js1638049030125631700 0
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/internals/create-html.js1638049030132631200 0
 103/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/internals/create-non-enumerable-property.js1638049030134630200 0
+93/mnt/c/Users/kay_h/foodietales-recipes/node_modules/jsdom/lib/jsdom/living/generated/Event.js1638049029698992500 0
+75/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/package.json1640481313471029600 0
 61/mnt/c/Users/kay_h/foodietales-recipes/node_modules/relateurl1638049027738944300 1
 99/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/internals/create-property-descriptor.js1638049030136630600 0
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/modules/es.reflect.apply.js1638049030632332000 0
@@ -12623,7 +12636,7 @@
 83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/proposals/observable.js1638049032016152000 0
 74/mnt/c/Users/kay_h/foodietales-recipes/node_modules/command-exists/LICENSE1638049027377307900 0
 75/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-bigint/.eslintignore1638049025974360500 0
-70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/.package-lock.json1639275321232226200 0
+70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/.package-lock.json1640481457675296700 0
 89/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/proposals/pattern-matching.js1638049032040152700 0
 92/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/proposals/promise-all-settled.js1638049032044153500 0
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/proposals/promise-try.js1638049032045528600 0
@@ -12691,7 +12704,6 @@
 91/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/stable/array/virtual/reverse.js1638049032082541500 0
 78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/json-schema/draft-03/links1638049027671911400 0
 88/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/stable/array/virtual/sort.js1638049032130540400 0
-67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob/LICENSE1638049025868836100 0
 94/mnt/c/Users/kay_h/foodietales-recipes/node_modules/color/node_modules/color-convert/README.md1638051028290119700 0
 90/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/stable/array/virtual/values.js1638049032253023300 0
 110/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/core/test/fixtures/library-scopehoist/package.json1638049030541815000 0
@@ -13205,6 +13217,7 @@
 63/mnt/c/Users/kay_h/foodietales-recipes/node_modules/create-hash1638049026405971500 1
 70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/create-hash/md5.js1638049026344940200 0
 71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/has-value/README.md1638049025897836500 0
+73/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/index.html1640481313484595800 0
 76/mnt/c/Users/kay_h/foodietales-recipes/node_modules/create-hash/package.json1638049025862834800 0
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2020/thisStringValue.js1638049031567534500 0
 65/mnt/c/Users/kay_h/foodietales-recipes/node_modules/picomatch/lib1638049026581552500 1
@@ -13219,7 +13232,6 @@
 72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/cross-spawn/index.js1638049026103390300 0
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@babel/traverse/lib/path/index.js1638049028190646700 0
 91/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2015/OrdinaryHasProperty.js1638049031286895700 0
-68/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html/index.js1638049026286423900 0
 72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/lodash/forInRight.js1638049030685857500 0
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/cross-spawn/lib/util/readShebang.js1638049026603583200 0
 72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@types/node/dns.d.ts1638049028426730600 0
@@ -14116,9 +14128,6 @@
 73/mnt/c/Users/kay_h/foodietales-recipes/node_modules/postcss-minify-params1638049026591066600 1
 90/mnt/c/Users/kay_h/foodietales-recipes/node_modules/highlight.js/lib/languages/makefile.js1638049030131630200 0
 81/mnt/c/Users/kay_h/foodietales-recipes/node_modules/domhandler/lib/index.d.ts.map1638049026631582900 0
-81/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sshpk/lib/formats/x509-pem.js1638049028380366100 0
-78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/lodash/fp/sortedIndexOf.js1638049031566534600 0
-72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob/package.json1638049026090391200 0
 78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/core/lib/Parcel.js1638049030181162700 0
 93/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/stable/reflect/define-property.js1638049030210157500 0
 75/mnt/c/Users/kay_h/foodietales-recipes/node_modules/domhandler/lib/index.js1638049026398972200 0
@@ -14483,7 +14492,7 @@
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2016/DateFromTime.js1638049029890065400 0
 92/mnt/c/Users/kay_h/foodietales-recipes/node_modules/cssstyle/lib/properties/lightingColor.js1638049028841770000 0
 75/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2016/Day.js1638049029925065600 0
-51/mnt/c/Users/kay_h/foodietales-recipes/package.json1639275321187690600 0
+51/mnt/c/Users/kay_h/foodietales-recipes/package.json1640481313894721900 0
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2016/DayWithinYear.js1638049029994111600 0
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/ordered-binary/package.json1638049026768654600 0
 89/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/5/CheckObjectCoercible.js1638049029661990300 0
@@ -14547,7 +14556,7 @@
 89/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2016/SetIntegrityLevel.js1638049031466502700 0
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/lodash/fp/rangeStepRight.js1638049031510018600 0
 90/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2016/SpeciesConstructor.js1638049031480503900 0
-54/mnt/c/Users/kay_h/foodietales-recipes/src/js/model.js1640479601318726500 0
+54/mnt/c/Users/kay_h/foodietales-recipes/src/js/model.js1641076688763504600 0
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/features/instance/find.js1638049031507020900 0
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2016/StringCreate.js1638049031505020700 0
 95/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2016/SymbolDescriptiveString.js1638049031526020100 0
@@ -14793,8 +14802,6 @@
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2018/IteratorNext.js1638049030790898700 0
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2018/IteratorStep.js1638049030811898200 0
 80/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2018/MakeDate.js1638049030844895100 0
-86/mnt/c/Users/kay_h/foodietales-recipes/node_modules/string.prototype.trimend/.eslintrc1638049026027873400 0
-69/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob/README.md1638049026268424200 0
 79/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2018/MakeDay.js1638049030852898100 0
 82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/w3c-xmlserializer/package.json1638049025836833400 0
 78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2018/modulo.js1638049031138896700 0
@@ -14898,6 +14905,8 @@
 84/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2019/ObjectCreate.js1638049031224896000 0
 97/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2019/OrdinaryDefineOwnProperty.js1638049031241895300 0
 91/mnt/c/Users/kay_h/foodietales-recipes/node_modules/es-abstract/2019/OrdinaryHasProperty.js1638049031290896100 0
+71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/sharp/src/common.cc1638051028368640800 0
+62/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional1640481313483597300 1
 109/mnt/c/Users/kay_h/foodietales-recipes/node_modules/uncss/node_modules/postcss-selector-parser/dist/parser.js1638049028410731900 0
 120/mnt/c/Users/kay_h/foodietales-recipes/node_modules/postcss-modules-extract-imports/node_modules/supports-color/index.js1638049026074390800 0
 80/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fast-glob/out/utils/index.js1638049028050580200 0
@@ -15534,7 +15543,7 @@
 104/mnt/c/Users/kay_h/foodietales-recipes/node_modules/@parcel/core/test/fixtures/library-custom-scopehoist1638049030538815700 1
 72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/esutils/lib/utils.js1638049026710623300 0
 85/mnt/c/Users/kay_h/foodietales-recipes/node_modules/postcss-discard-comments/dist/lib1638049026615583300 1
-51/mnt/c/Users/kay_h/foodietales-recipes/node_modules1639275321054658900 1
+51/mnt/c/Users/kay_h/foodietales-recipes/node_modules1640481457294297600 1
 71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/esutils/LICENSE.BSD1638049025929359900 0
 82/mnt/c/Users/kay_h/foodietales-recipes/node_modules/highlight.js/styles/magula.css1638049028895804200 0
 65/mnt/c/Users/kay_h/foodietales-recipes/node_modules/eventemitter31638049026628582400 1
@@ -15790,6 +15799,10 @@
 77/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fast-glob/out/utils/fs.js1638049027799457500 0
 69/mnt/c/Users/kay_h/foodietales-recipes/node_modules/lodash/fp/rest.js1638049031523018700 0
 71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fast-glob/README.md1638049028363731500 0
+70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/path-key/readme.md1638049026180906300 0
+59/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob1638049026089390400 1
+64/mnt/c/Users/kay_h/foodietales-recipes/node_modules/bl/README.md1638049027348784000 0
+78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fast-json-stable-stringify1638049027268268900 1
 92/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fast-json-stable-stringify/.eslintrc.yml1638049027268268900 0
 60/mnt/c/Users/kay_h/foodietales-recipes/node_modules/pn/vm.js1638049028203647300 0
 98/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fast-json-stable-stringify/.github/FUNDING.yml1638049027456822000 0
@@ -15948,6 +15961,13 @@
 67/mnt/c/Users/kay_h/foodietales-recipes/node_modules/format/Makefile1638049026601583900 0
 77/mnt/c/Users/kay_h/foodietales-recipes/node_modules/csso/lib/clean/Comment.js1638049027999060500 0
 68/mnt/c/Users/kay_h/foodietales-recipes/node_modules/format/Readme.md1638049026643584100 0
+78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/array_mixins.js1640481313474562300 0
+72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/README.md1640481313473031700 0
+71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/releases1640481313494604100 1
+87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/releases/fraction-0.1.js1640481313492594500 0
+78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/tough-cookie/lib/cookie.js1638049026485523600 0
+83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/regions/RO.js1638049031354455700 0
+87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fractional/releases/fraction-0.2.js1640481313496592000 0
 66/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fragment-cache1638049026023874900 1
 74/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fragment-cache/LICENSE1638049026023874900 0
 83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/caniuse-lite/data/regions/MT.js1638049030871895900 0
@@ -16143,7 +16163,6 @@
 81/mnt/c/Users/kay_h/foodietales-recipes/node_modules/postcss-normalize-string/dist1638049026477008300 1
 99/mnt/c/Users/kay_h/foodietales-recipes/node_modules/core-js/features/typed-array/find-last-index.js1638049031494011500 0
 70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/has-ansi/readme.md1638049026109390700 0
-72/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-html/package.json1638049026207907000 0
 63/mnt/c/Users/kay_h/foodietales-recipes/node_modules/has-bigints1638049026571552600 1
 73/mnt/c/Users/kay_h/foodietales-recipes/node_modules/has-bigints/.eslintrc1638049025917361000 0
 71/mnt/c/Users/kay_h/foodietales-recipes/node_modules/has-bigints/LICENSE1638049026130908500 0
@@ -16551,7 +16570,7 @@
 83/mnt/c/Users/kay_h/foodietales-recipes/node_modules/highlight.js/styles/rainbow.css1638049029074876800 0
 115/mnt/c/Users/kay_h/foodietales-recipes/node_modules/postcss-modules-extract-imports/node_modules/chalk/templates.js1638049026453490800 0
 74/mnt/c/Users/kay_h/foodietales-recipes/node_modules/commander/CHANGELOG.md1638049028195646100 0
-62/mnt/c/Users/kay_h/foodietales-recipes/dist/index.fa02a0b5.css1640480899313218500 0
+62/mnt/c/Users/kay_h/foodietales-recipes/dist/index.fa02a0b5.css1641077811976873700 0
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/highlight.js/styles/school-book.png1638049030507773300 0
 91/mnt/c/Users/kay_h/foodietales-recipes/node_modules/highlight.js/styles/solarized-light.css1638049029378888100 0
 127/mnt/c/Users/kay_h/foodietales-recipes/node_modules/tar-stream/node_modules/readable-stream/lib/internal/streams/buffer_list.js1638051028324641100 0
@@ -16927,10 +16946,3 @@
 106/mnt/c/Users/kay_h/foodietales-recipes/node_modules/postcss-modules-scope/node_modules/postcss/lib/node.js1638049028363731500 0
 86/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-generator-function/package.json1638049026682101500 0
 87/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-generator-function/test/index.js1638049026596584400 0
-105/mnt/c/Users/kay_h/foodietales-recipes/node_modules/postcss-modules-scope/node_modules/color-name/test.js1638049026335939100 0
-90/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-generator-function/test/uglified.js1638049026639582900 0
-70/mnt/c/Users/kay_h/foodietales-recipes/node_modules/path-key/readme.md1638049026180906300 0
-64/mnt/c/Users/kay_h/foodietales-recipes/node_modules/bl/README.md1638049027348784000 0
-78/mnt/c/Users/kay_h/foodietales-recipes/node_modules/fast-json-stable-stringify1638049027268268900 1
-59/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob1638049026089390400 1
-68/mnt/c/Users/kay_h/foodietales-recipes/node_modules/is-glob/index.js1638049025980873500 0
