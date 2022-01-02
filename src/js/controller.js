@@ -24,25 +24,22 @@ const controlRecipes = async function () {
     const id = window.location.hash.slice(1);
     console.log(id);
 
-    if(!id) return; 
+    if (!id) return;
     model.state.recipe
     // 1.  load recipe
     recipeView.renderSpinner();
 
-   await model.loadRecipe(id);
-  
+    await model.loadRecipe(id);
 
-      // 2. Rendering recipe
+
+    // 2. Rendering recipe
     recipeView.render(model.state.recipe);
-    
-
-      
   } catch (err) {
-    alert(err);
+    recipeView.renderError();
   }
 };
 
-const init = function() {
+const init = function () {
   recipeView.addHandlerRender(controlRecipes);
 }
 init();
